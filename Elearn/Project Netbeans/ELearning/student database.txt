@@ -1,0 +1,17 @@
+db.student.insert({
+_id:"n001",
+uname:"Neha",
+email_id:"nehapapat@gmail.com",
+password:"abc123",
+mod_marks: [
+	    {"Java":
+		[{"MM1":0},{"MM2":0},{"MM3":0},{"MM4":0},{"FM":0}
+		]
+	   },{"PHP":
+		[{"MM1":0},{"MM2":0},{"MM3":0},{"MM4":0},{"FM":0}
+		]
+	   }], 
+
+course_applied:["Java"]
+})
+

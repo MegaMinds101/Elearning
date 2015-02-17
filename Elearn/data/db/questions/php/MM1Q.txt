@@ -1,0 +1,32 @@
+mm1q1.	Python is a __________ language.
+	
+	#A.Scripting
+	#B.Object Oriented
+	#C.Object Oriented Scripting
+	#D.Procedural 
+
+mm1q2. What are the keys to scroll and get the previous command executed in python interactive shell on Windows and Linux?
+	
+	#A.Alt + P
+	#B.Alt + L
+	#C.Ctrl + P
+	#D.Crtl + L
+
+mm1q3.  What is the key to scroll forward in the command history on Windows and Linux?
+	#A.Alt + F
+	#B.Ctrl + F
+	#C.Ctrl + N
+	#D.Alt + N
+mm1q4. What are the keys to scroll and get the previous command executed in python interactive shell on Windows and Linux?
+	
+	#A.Alt + P
+	#B.Alt + L
+	#C.Ctrl + P
+	#D.Crtl + L
+
+mm1q5.  What is the key to scroll forward in the command history on Windows and Linux?
+	#A.Alt + F
+	#B.Ctrl + F
+	#C.Ctrl + N
+	#D.Alt + N
+mm1q6.

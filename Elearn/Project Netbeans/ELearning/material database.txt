@@ -1,0 +1,58 @@
+db.material.insert({
+_id:"Java",
+sources:{
+	"pdf":{m1:"C:\\data\\db\\pdf\\java\\m1.pdf",
+	       m2:"C:\\data\\db\\pdf\\java\\m2.pdf",
+	       m3:"C:\\data\\db\\pdf\\java\\m1.pdf",
+	       m4:"C:\\data\\db\\pdf\\java\\m1.pdf"},
+	"videos":{m1:"C:\\data\\db\\video\\java\\m1.ogv",
+	          m2:"C:\\data\\db\\video\\java\\m1.ogv",
+		  m3:"C:\\data\\db\\video\\java\\m1.ogv",
+		  m4:"C:\\data\\db\\video\\java\\m1.ogv"}
+	},
+Q_mod:{m1:"C:\\data\\db\\questions\\java\\m1.txt",
+       m2:"C:\\data\\db\\questions\\java\\m2.txt",
+       m3:"C:\\data\\db\\questions\\java\\m3.txt",
+       m4:"C:\\data\\db\\questions\\java\\m1.txt"},
+F_exam:"C:\\data\\db\\final_questions\\java"
+})
+
+
+db.material.insert({
+_id:"Python",
+sources:{
+	"pdf":{m1:"C:\\data\\db\\pdf\\python\\m1.pdf",
+	       m2:"C:\\data\\db\\pdf\\python\\m2.pdf",
+	       m3:"C:\\data\\db\\pdf\\python\\m1.pdf",
+	       m4:"C:\\data\\db\\pdf\\python\\m1.pdf"},
+	"videos":{m1:"C:\\data\\db\\video\\python\\m1.ogv",
+	          m2:"C:\\data\\db\\video\\python\\m1.ogv",
+		  m3:"C:\\data\\db\\video\\python\\m1.ogv",
+		  m4:"C:\\data\\db\\video\\python\\m1.ogv"}
+	},
+Q_mod:{m1:"C:\\data\\db\\questions\\python\\m1.txt",
+       m2:"C:\\data\\db\\questions\\python\\m2.txt",
+       m3:"C:\\data\\db\\questions\\python\\m3.txt",
+       m4:"C:\\data\\db\\questions\\python\\m1.txt"},
+F_exam:"C:\\data\\db\\final_questions\\python"
+})
+
+db.material.insert({
+_id:"PHP",
+sources:{
+	"pdf":{m1:"C:\\data\\db\\pdf\\php\\m1.pdf",
+	       m2:"C:\\data\\db\\pdf\\php\\m2.pdf",
+	       m3:"C:\\data\\db\\pdf\\php\\m1.pdf",
+	       m4:"C:\\data\\db\\pdf\\php\\m1.pdf"},
+	"videos":{m1:"C:\\data\\db\\video\\php\\m1.ogv",
+	          m2:"C:\\data\\db\\video\\php\\m1.ogv",
+		  m3:"C:\\data\\db\\video\\php\\m1.ogv",
+		  m4:"C:\\data\\db\\video\\php\\m1.ogv"}
+	},
+Q_mod:{m1:"C:\\data\\db\\questions\\php\\m1.txt",
+       m2:"C:\\data\\db\\questions\\php\\m2.txt",
+       m3:"C:\\data\\db\\questions\\php\\m3.txt",
+       m4:"C:\\data\\db\\questions\\php\\m1.txt"},
+F_exam:"C:\\data\\db\\final_questions\\php"
+})
+

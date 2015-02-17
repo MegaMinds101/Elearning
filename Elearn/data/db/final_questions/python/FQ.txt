@@ -1,0 +1,30 @@
+fq1.What function do you use to read a string?
+   #A.input("Enter a string"
+   #B.eval(input("Enter a string"))
+   #C.enter ("Enter a string")
+   #D.eval(enter("Enter a string"))
+
+fq2._____ is the code in natural lang mixed with some program code.
+   #A. python program
+   #B. A Python statement
+   #C.Pseudocode
+   #D.A flowchart diagram
+
+fq3.an identifier cannot be a keyword.
+  #A. True
+  #B. False
+  #C. Either A or B
+  #D.NOne
+
+fq4._____ is a program that runs on a computer to manage and control a computers activities
+  #A.python
+  #B.operating system
+  #C.modes
+  #D.Compiler
+
+fq5. Python was created by?
+  #A.James gosling
+  #B.Bill Gates
+  #C.Steave Jobs
+  #D.Guido van Rossum
+fq6.

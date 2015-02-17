@@ -1,0 +1,32 @@
+// 1. Create a File and Scanner objects
+        File inputFile = new File("K:\\quemodulesforpython\\M1Q.txt");
+        Scanner input = new Scanner(inputFile); 
+        Scanner line;
+                ;String str = "";
+        // 2. read the content and then store in an array using a loop
+        for (int i=0;  input.hasNextLine() ; i++) {  
+              String inputStr = input.nextLine();   
+              line = new Scanner(inputStr);         
+              
+              //System.out.print(line.findInLine("m1q2"));
+              str=str+inputStr;
+              
+                   
+           } 
+        int i,j;
+        for( i=0;i<str.indexOf("m1q2");i++){
+            
+           // if(str.matches("m1q2.*"))break;
+            System.out.print(str.charAt(i));
+        }
+        j=i;
+        for( i=j;i<str.indexOf("m1q3");i++){
+            
+           // if(str.matches("m1q2.*"))break;
+            System.out.print(str.charAt(i));
+        }
+        
+        
+         
+         // 3. close the file and print the result
+        input.close(); 
